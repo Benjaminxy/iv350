@@ -1,0 +1,17 @@
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\Item.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\integration\Printer.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\view\View.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\startup\Main.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\Payment.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\integration\ExternalAccountingSystem.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\PurchasedItem.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\integration\ExternaInventorySystem.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\controller\Controller.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\Receipt.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\Customer.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\dto\CustomerDTO.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\dto\ItemDTO.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\TransactionDetails.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\model\CurrentSale.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\integration\CustomerManagementSystem.java
+C:\AmazingPOS\AmazingPOS\src\main\java\se\kth\iv1350\amazingpos\integration\DiscountDatabase.java
